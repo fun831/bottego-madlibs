@@ -15,3 +15,10 @@ class Home extends Component {
 }
 
 export default Home;
+
+
+/*
+ to do
+labels next to text
+button not fixed
+ */
